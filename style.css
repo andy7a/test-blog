@@ -8,22 +8,21 @@ body {
     font-family: 'Georgia', serif;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
     padding: 20px;
 }
 
 .container {
-    max-width: 900px;
+    max-width: 60%;
     margin: 0 auto;
     background: white;
     border-radius: 15px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
     overflow: hidden;
 }
 
 header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #354687 0%, #5162a6 100%);
     color: white;
     padding: 60px 40px;
     text-align: center;
